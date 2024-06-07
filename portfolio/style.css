@@ -1,0 +1,209 @@
+.ft{
+    display: flex;
+    border:5px solid cyan;
+    border-radius:3px;
+    box-shadow:5px 3px 5px 7px purple;
+}
+.cont{
+    height:480px;
+    width:25%;
+    border-right:2px solid salmon;
+    box-shadow:5px sandybrown;
+    background-color: aliceblue;
+}
+nav{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+ul li a:hover {
+    color: red;
+   
+}
+nav ul li{
+    list-style:none;
+    margin:10px 10px;
+    font-size:24px;
+    font-weight: bold;
+    font-family: gadugi;
+}
+nav ul li a{
+    text-decoration: none;
+    text-shadow:2px 2px 3px #ff1493;
+}
+.long{
+    height:480px;
+    background-color: aliceblue;
+    width:75%;
+    border:px solid;
+    display: flex;
+}
+.ft1{
+    display: flex;
+    border:5px solid cyan;
+    border-radius:3px;
+    margin-top: 50px;
+    box-shadow:5px 3px 5px 7px purple;
+}
+.sm{
+    height:250px;
+    width:60%;
+    margin-top:110px;
+    border:px solid;
+    text-align: center;
+}
+.sm1{
+    height:320px;
+    width:50%;
+    border:1px solid;
+    margin:auto;
+    background-image: url('imgs/anbu.jpg');
+    background-size:400px 400px;
+    background-repeat: no-repeat;
+}
+.sm2{
+    height:300px;
+    width:500px;
+    margin:auto;
+    box-shadow: 5px 5px 5px 5px sandybrown;
+    border:2px solid deeppink;
+}
+.sm2 label{
+    color:brown;
+    font-weight: bold;
+}
+.ty{
+    margin: auto;
+    margin-top: 15px;
+    border:px solid;
+    height:200px;
+    width:60%;
+}
+.long1{
+    height:480px;
+    background-color: aliceblue;
+    width:75%;
+    border:px solid;
+}
+.rw1{
+    height: 40%;
+    width:60%;
+    margin: auto;
+    display:flex;
+    margin-top: 20px;
+    border:px solid;
+}
+.rw2{
+    height: 40%;
+    width:60%;
+    margin: auto;
+    display: flex;
+    border:px solid;
+}
+.box{
+    margin-left:80px;
+}
+.certrw1{
+    height:250px;
+    width:600px;
+    margin: auto;
+    border:px solid;
+    align-items: center;
+    justify-content:space-around;
+    display: flex;
+}
+.certrw2{
+    height:250px;
+    width:600px;
+    margin: auto;
+    border:px solid;
+    align-items: center;
+    justify-content:space-around;
+    display: flex;
+}
+.cer1{
+    height:200px;
+    width:230px;
+    border-radius: 40px;
+    border:3px solid crimson;
+    background-image: url('imgs/web.jpg');
+    background-size: 250px 220px;
+}
+.cer1:hover{
+   transform:scale(1.1);
+   box-shadow:5px 5px 5px 5px sandybrown;
+}
+.cer2:hover{
+    transform:scale(1.1);
+    box-shadow:5px 5px 5px 5px violet;
+ }
+ .cer3:hover{
+    transform:scale(1.1);
+    box-shadow:5px 5px 5px 5px hotpink;
+ }
+ .cer4:hover{
+    transform:scale(1.1);
+    box-shadow:5px 5px 5px 5px indianred;
+ }
+.cer2{
+    height:200px;
+    width:230px;
+    border-radius: 40px;
+    border:3px solid crimson;
+    background-size: 250px 220px;
+    background-image: url('imgs/C.jpg');
+}
+.cer3{
+    height:200px;
+    width:230px;
+    border-radius: 40px;
+    border:3px solid crimson;
+    background-size: 250px 220px;
+    background-image: url('imgs/script.jpg');
+}
+.cer4{
+    height:200px;
+    width:230px;
+    border-radius: 40px;
+    border:3px solid crimson;
+    background-size: 250px 220px;
+    background-image: url('imgs/html.jpg');
+}
+.contact{
+    height:500px;
+    width:75%;
+    background-color: lightgray;
+    border:px solid;
+}
+.lit{
+    height:320px;
+    width:400px;
+    background-color:whitesmoke;
+    border:5px solid lightgreen;
+    margin-top:20px;
+    border-radius:8px;
+    margin-left:200px;
+}
+.cl1{
+    height:50px;
+    display: flex;
+    border:px solid;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.foot{
+    height:70px;
+    width:100%;
+    margin-top:80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border:1px solid;
+    background-color: black;
+}
+.foot img{
+    height:25px;
+    width:25px;
+    border-radius: 50%;
+    cursor: pointer;
+}
